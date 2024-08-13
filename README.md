@@ -42,4 +42,4 @@ This repository is dedicated to executing Lua scripts for Roblox game developmen
 
 ### Keywords
 
-Roblox executor, Solara Download, Solara Updated, Lua scripts, Windows Lua executor, Roblox exploit, Roblox development tools, free Roblox executor, reverse engineering Roblox, lag-free Roblox executor, Solara executor download, Roblox script executor
+Roblox executor, Solara Download, Solara Updated, Lua scripts, Windows Lua executor, Roblox exploit, Roblox development tools, free Roblox executor, reverse engineering Roblox, lag-free Roblox executor, Solara executor download, Roblox script executor, Solara Free, Solara Updated, Solara Download, How to get solara
