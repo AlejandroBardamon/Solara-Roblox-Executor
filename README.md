@@ -14,7 +14,7 @@
 
 Solara is meticulously developed by seasoned reverse engineers to deliver a smooth and efficient scripting experience. It stands out from other executors by offering reliable performance without lag, making it the go-to tool for Roblox developers.
 
-![Solara Executor](https://i.ibb.co/pJ3480p/logo.webp)
+![Solara Executor](https://getsolara.dev/images/image.png)
 
 ## Introducing Solara Executor
 
